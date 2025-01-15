@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ros2/test/slam/demo.cpp
+unitree/common/dds/dds_easy_model.hpp
+/home/ros2/test/slam/unitree/common/dds/dds_easy_model.hpp
+unitree/robot/channel/channel_publisher.hpp
+-
+unitree/robot/channel/channel_subscriber.hpp
+-
+unitree/ros2_idl/QtCommand_.hpp
+-
+unitree/ros2_idl/String_.hpp
+-
+unitree/ros2_idl/Odometry_.hpp
+-
+unitree/ros2_idl/QtNode_.hpp
+-
+unitree/ros2_idl/QtEdge_.hpp
+-
+stdio.h
+-
+termio.h
+-
+cmath
+-
+ctime
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/demo.dir/demo.cpp.o  -o demo  -lunitree_sdk2 -lunitree_ros2_idl_cpp -lddsc -lddscxx -lrt -lpthread 

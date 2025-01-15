@@ -1,0 +1,3 @@
+source ~/.condaenv
+python DW_Detect.py --weight 20240709best.pt --conf-thres 0.85 --view-img
+
